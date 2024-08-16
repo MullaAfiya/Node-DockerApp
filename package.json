@@ -1,0 +1,15 @@
+{
+  "name": "node-api-consumer",
+  "version": "1.0.0",
+  "description": "A simple Node.js app that consumes an API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
